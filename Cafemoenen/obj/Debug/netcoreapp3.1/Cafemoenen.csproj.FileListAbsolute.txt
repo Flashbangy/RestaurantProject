@@ -1,0 +1,13 @@
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\bin\Debug\netcoreapp3.1\Cafemoenen.exe
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\bin\Debug\netcoreapp3.1\Cafemoenen.deps.json
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\bin\Debug\netcoreapp3.1\Cafemoenen.runtimeconfig.json
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\bin\Debug\netcoreapp3.1\Cafemoenen.runtimeconfig.dev.json
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\bin\Debug\netcoreapp3.1\Cafemoenen.dll
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\bin\Debug\netcoreapp3.1\Cafemoenen.pdb
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\obj\Debug\netcoreapp3.1\Cafemoenen.csprojAssemblyReference.cache
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\obj\Debug\netcoreapp3.1\Cafemoenen.AssemblyInfoInputs.cache
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\obj\Debug\netcoreapp3.1\Cafemoenen.AssemblyInfo.cs
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\obj\Debug\netcoreapp3.1\Cafemoenen.csproj.CoreCompileInputs.cache
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\obj\Debug\netcoreapp3.1\Cafemoenen.dll
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\obj\Debug\netcoreapp3.1\Cafemoenen.pdb
+C:\Users\Bartlomiej\source\repos\Cafemoenen\Cafemoenen\obj\Debug\netcoreapp3.1\Cafemoenen.genruntimeconfig.cache
